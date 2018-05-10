@@ -62,3 +62,11 @@
   }
   ?>
   ```
+### Comments: 
+  ```php
+  # this is a comment line
+  // this is a comment line
+  /* this is a comment line */
+  ```
+  
+  
