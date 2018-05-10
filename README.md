@@ -61,4 +61,4 @@
       echo "The number is " . $i . "<br>";
   }
   ?>
-  ```php
+  ```
