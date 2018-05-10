@@ -30,7 +30,8 @@
 
   <?php endif ?>
   ```
-## Conditions:
+## Loops:
+### For: 
   ```php
   <?php 
   for ($x = 0; $x <= 10; $x++) {
@@ -38,3 +39,15 @@
   } 
   ?>
   ```  
+ 
+### Foreach:
+  ```php
+  <?php
+  $colors = array("Red", "Green", "Blue");
+
+  // Loop through colors array
+  foreach($colors as $value){
+      echo $value . "<br>";
+  }
+  ?>
+  ```
